@@ -54,9 +54,6 @@ If the other person is argumentative, you try to calm them down and keep chattin
 
 gpt_mini_messages = ["Hi there"]
 gpt_messages = ["Hi"]
-
-gpt_mini_messages = ["Hi there"]
-gpt_messages = ["Hi"]
 ```
 
 ```
